@@ -5,7 +5,7 @@ And for the admin he can add food types to the menu and he can view orders comin
 the website contain multiple pages : the main page to show the place and some of the food that they serve and a page for the user oreders and a profile page and a food menu and for the admin a main dashboard to keep track the statistics of the business 
 and  a page to  add or edit the food menu and an order page to keep track of all the orders.
 
-I used Php Storm ,Xampp , bootstrap , php admin .
+I used Php Storm ,Xampp , bootstrap , php admin / php,html,css .
 
 here are some picutres from the database and the application 
 # Food Table 
