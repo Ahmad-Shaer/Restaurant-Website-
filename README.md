@@ -3,8 +3,9 @@ This project was to fulfill the requirement for web course.
 I have created a food oredering website which let the user create an account or Log in  and then he can select which food he want to order from the avialable menu and then he can make an order.
 And for the admin he can add food types to the menu and he can view orders coming from user and can add or control the orders coming to the server . 
 the website contain multiple pages : the main page to show the place and some of the food that they serve and a page for the user oreders and a profile page and a food menu and for the admin a main dashboard to keep track the statistics of the business 
- and  a page to  add or edit the food menu and an order page to keep track of all the orders.
-I have used Php Storm ,Xampp , bootstrap , php admin .
+and  a page to  add or edit the food menu and an order page to keep track of all the orders.
+
+I used Php Storm ,Xampp , bootstrap , php admin .
 
 here are some picutres from the database and the application 
 # Food Table 
